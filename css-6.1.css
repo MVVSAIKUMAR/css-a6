@@ -19,7 +19,7 @@ body{
 }
 .menua{ 
     padding: 40px;
-    color: white;
+    color: whitesmoke;
 }
 .menub{ 
     padding: 40px;
@@ -31,19 +31,19 @@ body{
     padding: 40px;
 }
 .foura{
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
 }
 .fourb{
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
 }
 .fourc{
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
 }
 .fourd{
-    color: white;
+    color: whitesmoke;
 }
 .parent-container {
     display: grid;
@@ -54,7 +54,7 @@ body{
   .content {
     width: auto;
     height: 400px;
-    color: white;
+    color: whitesmoke;
     padding-top: 80px;
     padding-left: 100px;
   }
@@ -76,7 +76,7 @@ body{
     margin: 20px;
     width: 250px;
     border-radius: 10px;
-    color: white;
+    color: whitesmoke;
     cursor: grab;
     transition-duration: 0.5s;
   }
